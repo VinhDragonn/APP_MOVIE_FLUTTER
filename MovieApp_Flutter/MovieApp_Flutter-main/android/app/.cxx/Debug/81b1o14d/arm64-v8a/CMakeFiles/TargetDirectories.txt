@@ -1,0 +1,2 @@
+C:/Users/HP/Downloads/MovieApp_Flutter-main (1)/MovieApp_Flutter-main/android/app/.cxx/Debug/81b1o14d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Downloads/MovieApp_Flutter-main (1)/MovieApp_Flutter-main/android/app/.cxx/Debug/81b1o14d/arm64-v8a/CMakeFiles/rebuild_cache.dir
